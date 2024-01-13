@@ -16,6 +16,6 @@ I used C# language which is a C based language. I started learning C# in Novembe
 
 # Useful Websites
 
-* [Web Site Name](https://www.w3schools.com/cs/index.php) I did not copy this code. It auto generates when you build the beginning program.
-* [Web Site Name](https://code.visualstudio.com/Docs/languages/csharp)
+* [W3Schools: C#](https://www.w3schools.com/cs/index.php) I did not copy this code. It auto generates when you build the beginning program.
+* [Visual Studio Code: C#](https://code.visualstudio.com/Docs/languages/csharp)
 
